@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Manvi 👋
+
+### BTech Student | Aspiring Software Developer
+
+I’m currently building my skills in Data Structures & Algorithms and Full Stack Web Development.
 
 <!--
 **ManviTripathi/ManviTripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
