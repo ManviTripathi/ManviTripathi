@@ -9,19 +9,7 @@ I'm currently building my skills in **Data Structures & Algorithms** and **Full 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,python" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=canva" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,git,github,vscode,canva" />
 </p>
 ---
 
