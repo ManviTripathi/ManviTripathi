@@ -6,13 +6,6 @@ I'm currently building my skills in **Data Structures & Algorithms** and **Full 
 
 ---
 
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,git,github,vscode,canva" />
-</p>
----
-
 ## 📚 Currently Learning
 
 * 🧩 Data Structures & Algorithms in C++
@@ -21,8 +14,13 @@ I'm currently building my skills in **Data Structures & Algorithms** and **Full 
 * 💡 Problem Solving and Competitive Programming
 
 ---
+## 🛠️ Tech Stack
 
-## 🎯 2026 Goals
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,git,github,vscode,canva" />
+</p>
+
+## 🎯 Goals
 
 * Strengthen my DSA fundamentals
 * Solve problems consistently on LeetCode
@@ -32,17 +30,21 @@ I'm currently building my skills in **Data Structures & Algorithms** and **Full 
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="left">
+  <a href="www.linkedin.com/in/manvi-tripathi-24085935b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/ManviTripathi/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="mailto:manvit542@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-⭐ **Always learning. Always building.**
 
 <!--
 **ManviTripathi/ManviTripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
