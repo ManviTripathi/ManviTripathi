@@ -4,6 +4,11 @@
 
 I’m currently building my skills in Data Structures & Algorithms and Full Stack Web Development.
 
+## 🛠️ Tech Stack
+
+- **Languages:** C++, Python, JavaScript
+- **Frontend:** HTML, CSS
+- **Tools:** Git, GitHub
 <!--
 **ManviTripathi/ManviTripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
